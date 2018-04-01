@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341374829382",
+    "firebase_url": "https://study-case-modul-6-806e3.firebaseio.com",
+    "project_id": "study-case-modul-6-806e3",
+    "storage_bucket": "study-case-modul-6-806e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341374829382:android:91a2cbd1ce5eb29f",
+        "android_client_info": {
+          "package_name": "com.example.zakky.zakky_1202150099_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341374829382-cmq7us3dan5s8ocudt27q6njrqb837cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhQffpIFtHG9Cx28GYjEZTCCSGcbVuM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
